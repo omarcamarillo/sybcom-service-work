@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prueba Piloto</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css" rel="stylesheet" />
+</head>
+<body>
+    <main>
+        <section id="alerta">
+            <div class="container-box">
+                <p>Recuerden que despues de hacer su trabajo mandar por Whatsapp el ID de usuario y completado</p>
+                <div class="actions">
+                    <button id="join">
+                        Aceptar
+                    </button>
+                    <a href="">
+                        <button>Whatsapp</button>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section class="container__all hidden">
+            <input type="radio" id="todos" name="categories" value="todos" checked>
+            <input type="radio" id="cruz" name="categories" value="cruz">
+            <input type="radio" id="adrian" name="categories" value="adrian">
+            <input type="radio" id="julio" name="categories" value="julio">
+    
+            <div class="container-category">
+                <label for="todos">Todos</label>
+                <label for="cruz">Cruz</label>
+                <label for="adrian">Adrian</label>
+                <label for="julio">Julio</label>
+            </div>
+            <section class="works-section">
+                <ul id="content-work" class="content-work"></ul>
+            </section>
+        </section>
+    </main>
+    <!-- Scripts -->
+    <script src="main.js"></script>
+</body>
+</html>

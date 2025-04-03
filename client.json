@@ -1,0 +1,47 @@
+[
+    {
+        "status": "terminado",
+        "name": "Adrian Isaac Romero Lopez",
+        "phone": "+52 615 123 4567",
+        "locate": "Guerrero Negro",
+        "work": "Soporte",
+        "price": "$500.00",
+        "category": "cruz"
+    },
+    {
+        "status": "proceso",
+        "name": "Omar Said Camarillo Pérez",
+        "phone": "+52 615 123 4567",
+        "locate": "Santa Rosalia",
+        "work": "Instalación",
+        "price": "$2100.00",
+        "category": "julio"
+    },
+    {
+        "status": "cancelado",
+        "name": "Angel Arturo Martinez Leyva",
+        "phone": "+52 615 123 4567",
+        "locate": "Mulege",
+        "work": "Cambio de domicilio",
+        "price": "$450.00",
+        "category": "adrian"
+    },
+    {
+        "status": "terminado",
+        "name": "Angel Martinez Leyva",
+        "phone": "+52 615 123 4567",
+        "locate": "Vizcaino",
+        "work": "Soporte",
+        "price": "$500.00",
+        "category": "cruz"
+    },
+    {
+        "status": "proceso",
+        "name": "Samuel Higuera Perez",
+        "phone": "+52 615 123 4567",
+        "locate": "Mulege",
+        "work": "Cambio de domicilio",
+        "price": "$450.00",
+        "category": "adrian"
+    }
+]
